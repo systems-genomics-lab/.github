@@ -1,4 +1,4 @@
-![Systems Genomics Lab](./images/dna.jpg)
+![Systems Genomics Lab](https://raw.githubusercontent.com/systems-genomics-lab/.github/main/profile/images/dna.jpg)
 
 # Systems Genomics Lab @ AUC
 
